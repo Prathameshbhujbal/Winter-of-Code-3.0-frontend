@@ -10,7 +10,7 @@
     "buffer": "^6.0.3",
     "clarity-js": "^0.7.1",
     "draw-shape-reactjs": "^1.0.2",
-    "firebase": "^9.13.0",
+    "firebase": "^9.16.0",
     "html-react-parser": "^3.0.4",
     "react": "^18.2.0",
     "react-awesome-shapes": "^0.1.12",
