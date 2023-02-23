@@ -14,7 +14,7 @@
     "html-react-parser": "^3.0.4",
     "react": "^18.2.0",
     "react-awesome-shapes": "^0.1.12",
-    "react-bootstrap": "^2.5.0",
+    "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.39.3",
     "react-horizontal-timeline": "^1.5.3",
